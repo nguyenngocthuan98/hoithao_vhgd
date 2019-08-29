@@ -30,6 +30,10 @@
     <link href="css/style-chuong-trinh.css" rel="stylesheet" type="text/css">
     <link href="css/style-dien-gia.css" rel="stylesheet" type="text/css">
     <link href="css/style-tin-tuc.css" rel="stylesheet" type="text/css">
+    <link href="css/style-thong-bao.css" rel="stylesheet" type="text/css">
+    <link href="css/style-thong-cao-bao-chi.css" rel="stylesheet" type="text/css">
+    <link href="css/style-lich-su-hoi-thao.css" rel="stylesheet" type="text/css">
+    <link href="css/style-tai-lieu.css" rel="stylesheet" type="text/css">
 
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <script src="js/smoothscroll.js" type="text/javascript"></script>
@@ -106,7 +110,7 @@
                                 <div class='sp-megamenu-wrapper'>
                                     <a id="offcanvas-toggler" class="visible-sm visible-xs" href="#"><i class="fa fa-bars"></i></a>
                                     <ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs">
-                                        <li class="sp-menu-item current-item active"><a href=""><i class="fa fa-home"></i></a></li>
+                                        <li class="sp-menu-item current-item active"><a href="trang-chu.php"><i class="fa fa-home"></i></a></li>
                                         <li class="sp-menu-item"><a href="gioi-thieu.php">Giới thiệu</a></li>
                                         <li class="sp-menu-item"><a href="chuong-trinh.php">Chương trình</a></li>
                                         <li class="sp-menu-item"><a href="dien-gia.php">Diễn giả</a></li>
