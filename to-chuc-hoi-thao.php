@@ -16,7 +16,7 @@
                                                                     <div id="sppb-addon-1555821603644" class="clearfix">
                                                                         <div class="sppb-addon sppb-addon-module ">
                                                                             <div class="sppb-addon-content">
-                                                                                <div class="mainheading-wrapper" style="background: url(img/to-chuc-hoi-thao/newsletter_bg.jpg);">
+                                                                                <div class="mainheading-wrapper" style="background: url(img/newsletter_bg.jpg);">
                                                                                     <div class="uk-container uk-container-center heading-content heading-align-center">
                                                                                         <div class="heading-text-wrapper">
                                                                                             <div class="header_text">
