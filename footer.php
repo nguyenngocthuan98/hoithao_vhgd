@@ -26,7 +26,7 @@
             <h3 class="sp-module-title">Search</h3>
             <div class="sp-module-content">
                 <div class="search">
-                    <form action="/vi/" method="post">
+                    <form action="trang-chu.php" method="post">
                         <input name="searchword" id="mod-search-searchword" maxlength="200" class="inputbox search-query" type="text" size="20" placeholder="Search..." />
                         <input type="hidden" name="task" value="search" />
                         <input type="hidden" name="option" value="com_search" />
@@ -39,22 +39,22 @@
             <div class="sp-module-content">
                 <ul class="nav menu">
                     <li class="item-437  current active">
-                        <a href="/vi/"> <i class="fa fa-home"></i> Trang chủ</a>
+                        <a href="trang-chu.php"> <i class="fa fa-home"></i> Trang chủ</a>
                     </li>
-                    <li class="item-279"><a href="/vi/gioi-thieu"> Giới thiệu</a></li>
-                    <li class="item-543"><a href="/vi/chuong-trinh"> Chương trình</a></li>
-                    <li class="item-542"><a href="/vi/dien-gia"> Diễn giả</a></li>
-                    <li class="item-591"><a href="/vi/to-chuc-hoi-thao"> Tổ chức hội thảo</a></li>
-                    <li class="item-492  deeper parent"><a href="/vi/tin-tuc"> Tin tức</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-492"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span>
+                    <li class="item-279"><a href="gioi-thieu.php"> Giới thiệu</a></li>
+                    <li class="item-543"><a href="chuong-trinh.php"> Chương trình</a></li>
+                    <li class="item-542"><a href="dien-gia.php"> Diễn giả</a></li>
+                    <li class="item-591"><a href="to-chuc-hoi-thao.php"> Tổ chức hội thảo</a></li>
+                    <li class="item-492  deeper parent"><a href="tin-tuc.php"> Tin tức</a><span class="offcanvas-menu-toggler collapsed" data-toggle="collapse" data-target="#collapse-menu-492"><i class="open-icon fa fa-angle-down"></i><i class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-492">
-                            <li class="item-575"><a href="/vi/tin-tuc/thong-bao"> Thông báo</a></li>
-                            <li class="item-576"><a href="/vi/tin-tuc/thong-cao-bao-chi"> Thông cáo báo chí</a></li>
-                            <li class="item-609"><a href="/vi/tin-tuc/tin-tuc-vec"> Tin tức</a></li>
+                            <li class="item-575"><a href="thong-bao.php"> Thông báo</a></li>
+                            <li class="item-576"><a href="thong-cao-bao-chi.php"> Thông cáo báo chí</a></li>
+                            <li class="item-609"><a href="tin-tuc.php"> Tin tức</a></li>
                         </ul>
                     </li>
-                    <li class="item-268"><a href="/vi/lich-su-hoi-thao"> Lịch sử hội thảo</a></li>
-                    <li class="item-554"><a href="/vi/lien-he"> Liên hệ</a></li>
-                    <li class="item-493"><a href="/vi/tai-lieu"> Tài liệu</a></li>
+                    <li class="item-268"><a href="lich-su-hoi-thao.php"> Lịch sử hội thảo</a></li>
+                    <li class="item-554"><a href="lien-he.php"> Liên hệ</a></li>
+                    <li class="item-493"><a href="tai-lieu.php"> Tài liệu</a></li>
                     <li class="item-593 tv"><a href="/vi/"> Tiếng Việt</a></li>
                     <li class="item-594 en"><a href="/en/"> English</a></li>
                 </ul>

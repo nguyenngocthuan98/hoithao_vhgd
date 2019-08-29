@@ -26,6 +26,10 @@
     <link href="css/template/frontend-edit.css" rel="stylesheet" type="text/css" />
     <link href="css/to-chuc-hoi-thao/header-style.css" rel="stylesheet" type="text/css">
     <link href="css/style-home.css" rel="stylesheet" type="text/css">
+    <link href="css/style-gioi-thieu.css" rel="stylesheet" type="text/css">
+    <link href="css/style-chuong-trinh.css" rel="stylesheet" type="text/css">
+    <link href="css/style-dien-gia.css" rel="stylesheet" type="text/css">
+    <link href="css/style-tin-tuc.css" rel="stylesheet" type="text/css">
 
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
     <script src="js/smoothscroll.js" type="text/javascript"></script>
@@ -93,7 +97,7 @@
                         <div id="sp-logo" class="col-xs-8 col-sm-1 col-md-1">
                             <div class="sp-column ">
                                 <div class="logo">
-                                    <a href="/"><img class="sp-default-logo" src="img/home/logo.png" alt="Logo"><img class="sp-retina-logo" src="" alt="Hội thảo Giáo dục Nghề nghiệp 2019" width="184" height="92"></a>
+                                    <a href="trang-chu.php"><img class="sp-default-logo" src="img/home/logo.png" alt="Logo"><img class="sp-retina-logo" src="" alt="Hội thảo Giáo dục Nghề nghiệp 2019" width="184" height="92"></a>
                                 </div>
                             </div>
                         </div>
@@ -102,25 +106,25 @@
                                 <div class='sp-megamenu-wrapper'>
                                     <a id="offcanvas-toggler" class="visible-sm visible-xs" href="#"><i class="fa fa-bars"></i></a>
                                     <ul class="sp-megamenu-parent menu-fade hidden-sm hidden-xs">
-                                        <li class="sp-menu-item current-item active"><a href="/vi/"><i class="fa fa-home"></i></a></li>
-                                        <li class="sp-menu-item"><a href="/vi/gioi-thieu">Giới thiệu</a></li>
-                                        <li class="sp-menu-item"><a href="/vi/chuong-trinh">Chương trình</a></li>
-                                        <li class="sp-menu-item"><a href="/vi/dien-gia">Diễn giả</a></li>
-                                        <li class="sp-menu-item"><a href="/vi/to-chuc-hoi-thao">Tổ chức hội thảo</a></li>
-                                        <li class="sp-menu-item sp-has-child"><a href="/vi/tin-tuc">Tin tức</a>
+                                        <li class="sp-menu-item current-item active"><a href=""><i class="fa fa-home"></i></a></li>
+                                        <li class="sp-menu-item"><a href="gioi-thieu.php">Giới thiệu</a></li>
+                                        <li class="sp-menu-item"><a href="chuong-trinh.php">Chương trình</a></li>
+                                        <li class="sp-menu-item"><a href="dien-gia.php">Diễn giả</a></li>
+                                        <li class="sp-menu-item"><a href="to-chuc-hoi-thao.php">Tổ chức hội thảo</a></li>
+                                        <li class="sp-menu-item sp-has-child"><a href="tin-tuc.php">Tin tức</a>
                                             <div class="sp-dropdown sp-dropdown-main sp-menu-center" style="width: 210px;left: -105px;">
                                                 <div class="sp-dropdown-inner">
                                                     <ul class="sp-dropdown-items">
-                                                        <li class="sp-menu-item"><a href="/vi/tin-tuc/thong-bao">Thông báo</a></li>
-                                                        <li class="sp-menu-item"><a href="/vi/tin-tuc/thong-cao-bao-chi">Thông cáo báo chí</a></li>
-                                                        <li class="sp-menu-item"><a href="/vi/tin-tuc/tin-tuc-vec">Tin tức</a></li>
+                                                        <li class="sp-menu-item"><a href="thong-bao.php">Thông báo</a></li>
+                                                        <li class="sp-menu-item"><a href="thong-cao-bao-chi.php">Thông cáo báo chí</a></li>
+                                                        <li class="sp-menu-item"><a href="tin-tuc.php">Tin tức</a></li>
                                                     </ul>
                                                 </div>
                                             </div>
                                         </li>
-                                        <li class="sp-menu-item"><a href="/vi/lich-su-hoi-thao">Lịch sử hội thảo</a></li>
-                                        <li class="sp-menu-item"><a href="/vi/lien-he">Liên hệ</a></li>
-                                        <li class="sp-menu-item"><a href="/vi/tai-lieu">Tài liệu</a></li>
+                                        <li class="sp-menu-item"><a href="lich-su-hoi-thao.php">Lịch sử hội thảo</a></li>
+                                        <li class="sp-menu-item"><a href="lien-he.php">Liên hệ</a></li>
+                                        <li class="sp-menu-item"><a href="tai-lieu.php">Tài liệu</a></li>
                                         <li class="sp-menu-item tv">
                                             <a href="/vi/"></a>
                                         </li>
